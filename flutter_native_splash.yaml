@@ -1,0 +1,9 @@
+flutter_native_splash:
+  android: true
+  android_gravity: clip_horizontal
+  ios: true
+  ios_content_mode: scaleAspectFit
+  color: "#FFFFFF"
+  color_dark: "#8E97FD"
+  image: assets/images/common/light/trademark.png
+  image_dark: assets/images/common/dark/trademark.png
